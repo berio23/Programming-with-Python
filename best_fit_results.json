@@ -1,0 +1,22 @@
+{
+    "y1": {
+        "ideal_function": "y42",
+        "least_square_error": 34.246594303368504,
+        "max_deviation": 0.4959680000000013
+    },
+    "y2": {
+        "ideal_function": "y41",
+        "least_square_error": 35.60184692481152,
+        "max_deviation": 0.49770300000000134
+    },
+    "y3": {
+        "ideal_function": "y11",
+        "least_square_error": 29.86183029016382,
+        "max_deviation": 0.4989360000000005
+    },
+    "y4": {
+        "ideal_function": "y48",
+        "least_square_error": 31.963434327891697,
+        "max_deviation": 0.49974158999999996
+    }
+}
